@@ -1,7 +1,8 @@
 # cgopengl
 A repo for my computer graphic with Open GL. 
 
-You may also use this template. If you are new to OpenGL, you can follow these steps. 
+You may also use this template. If you are new to OpenGL, you can follow these steps.  
+*Disclaimer: I use Windows 10 as my OS and already install C++ environment. 
 
 ## Complete Guide: Setting Up OpenGL with GLEW, GLFW, and FreeGLUT in Visual Studio 2022.
 This guide will walk you through installing and configuring OpenGL, GLEW, GLFW, and FreeGLUT in Visual Studio 2022 (MSVC) for OpenGL development.
