@@ -1,1 +1,1 @@
-A template for computer graphic class project. 
+The first project for first homework, duplicated from tempalte. 
