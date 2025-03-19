@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (OpenGL App 1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  OpenGL Train App.cpp
+D:\Bagus\Workspace\OpenGL\cgopengl\OpenGL Train Simulation\OpenGL App 1\OpenGL Train App.cpp(29,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Bagus\Workspace\OpenGL\cgopengl\OpenGL Train Simulation\OpenGL App 1\OpenGL Train App.cpp(31,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Bagus\Workspace\OpenGL\cgopengl\OpenGL Train Simulation\OpenGL App 1\OpenGL Train App.cpp(32,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Bagus\Workspace\OpenGL\cgopengl\OpenGL Train Simulation\OpenGL App 1\OpenGL Train App.cpp(59,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  OpenGL App 1.vcxproj -> D:\Bagus\Workspace\OpenGL\cgopengl\OpenGL Train Simulation\x64\Debug\OpenGL Train.exe
