@@ -1,0 +1,16 @@
+﻿  OpenGL Train App.cpp
+D:\Bagus\Workspace\OpenGL\cgopengl\OpenGL Train Simulation\OpenGL App 1\OpenGL Train App.cpp(16,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Bagus\Workspace\OpenGL\cgopengl\OpenGL Train Simulation\OpenGL App 1\OpenGL Train App.cpp(20,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Bagus\Workspace\OpenGL\cgopengl\OpenGL Train Simulation\OpenGL App 1\OpenGL Train App.cpp(21,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Bagus\Workspace\OpenGL\cgopengl\OpenGL Train Simulation\OpenGL App 1\OpenGL Train App.cpp(29,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Bagus\Workspace\OpenGL\cgopengl\OpenGL Train Simulation\OpenGL App 1\OpenGL Train App.cpp(36,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Bagus\Workspace\OpenGL\cgopengl\OpenGL Train Simulation\OpenGL App 1\OpenGL Train App.cpp(37,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Bagus\Workspace\OpenGL\cgopengl\OpenGL Train Simulation\OpenGL App 1\OpenGL Train App.cpp(79,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Bagus\Workspace\OpenGL\cgopengl\OpenGL Train Simulation\OpenGL App 1\OpenGL Train App.cpp(113,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Bagus\Workspace\OpenGL\cgopengl\OpenGL Train Simulation\OpenGL App 1\OpenGL Train App.cpp(149,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  0 of 95 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OpenGL App 1.vcxproj -> D:\Bagus\Workspace\OpenGL\cgopengl\OpenGL Train Simulation\x64\Release\OpenGL Train.exe
