@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (OpenGL App 1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  OpenGL App 2.cpp
+D:\Bagus\Workspace\OpenGL\cgopengl\OpenGL App 2\OpenGL App 1\OpenGL App 2.cpp(100,50): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Bagus\Workspace\OpenGL\cgopengl\OpenGL App 2\OpenGL App 1\OpenGL App 2.cpp(99,56): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+  OpenGL App 1.vcxproj -> D:\Bagus\Workspace\OpenGL\cgopengl\OpenGL App 2\x64\Debug\OpenGL App 2.exe

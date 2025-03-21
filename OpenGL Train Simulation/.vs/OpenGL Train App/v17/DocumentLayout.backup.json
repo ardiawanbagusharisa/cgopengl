@@ -14,12 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +24,7 @@
               "RelativeDocumentMoniker": "OpenGL App 1\\OpenGL Train App.cpp",
               "ToolTip": "D:\\Bagus\\Workspace\\OpenGL\\cgopengl\\OpenGL Train Simulation\\OpenGL App 1\\OpenGL Train App.cpp",
               "RelativeToolTip": "OpenGL App 1\\OpenGL Train App.cpp",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAALYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-24T08:43:48.644Z",
               "EditorCaption": ""
