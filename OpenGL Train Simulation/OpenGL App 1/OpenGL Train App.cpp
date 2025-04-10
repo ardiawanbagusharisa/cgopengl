@@ -12,8 +12,23 @@ int selectedPoint = -1;
 bool isTrainMoving = true;
 float trainMovePos = 0.0f;
 
+// Get the bezier points but using recursive function: de Casteljau's algorithm
+Point deCasteljauBezierPoint(const std::vector<Point>& points, float t) {
+	std::vector<Point> temp = points;
+	int n = temp.size();
+	for (int r = 1; r < n; ++r) {
+		for (int i = 0; i < n - r; ++i) {
+			temp[i].x = (1 - t) * temp[i].x + t * temp[i + 1].x;
+			temp[i].y = (1 - t) * temp[i].y + t * temp[i + 1].y;
+		}
+	}
+	return temp[0];
+}
+
+
 Point getBezierPoints(float t) {
-	int n = controlPoints.size() - 1;
+	// Non-Recursive 
+	/*int n = controlPoints.size() - 1;
 	Point p = { 0, 0 };
 
 	for (int i = 0; i <= n; i++) {
@@ -22,7 +37,12 @@ Point getBezierPoints(float t) {
 		p.x += controlPoints[i].x * blend;
 		p.y += controlPoints[i].y * blend;
 	}
+
 	return p;
+	*/
+
+	// Recursive
+	return deCasteljauBezierPoint(controlPoints, t);
 }
 
 Point getTangentPoints(float t) {
@@ -60,6 +80,9 @@ void drawBezierCurve() {
 		Point p = getBezierPoints(t);
 		glVertex2f(p.x, p.y);
 	}
+	// Connect to the first point
+	//Point p = getBezierPoints(0);
+	//glVertex2f(p.x, p.y);
 	glEnd();
 }
 

@@ -1,12 +1,10 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (OpenGL App 1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
   OpenGL Train App.cpp
-D:\Bagus\Workspace\OpenGL\cgopengl\OpenGL Train Simulation\OpenGL App 1\OpenGL Train App.cpp(16,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-D:\Bagus\Workspace\OpenGL\cgopengl\OpenGL Train Simulation\OpenGL App 1\OpenGL Train App.cpp(20,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-D:\Bagus\Workspace\OpenGL\cgopengl\OpenGL Train Simulation\OpenGL App 1\OpenGL Train App.cpp(21,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-D:\Bagus\Workspace\OpenGL\cgopengl\OpenGL Train Simulation\OpenGL App 1\OpenGL Train App.cpp(29,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-D:\Bagus\Workspace\OpenGL\cgopengl\OpenGL Train Simulation\OpenGL App 1\OpenGL Train App.cpp(36,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-D:\Bagus\Workspace\OpenGL\cgopengl\OpenGL Train Simulation\OpenGL App 1\OpenGL Train App.cpp(37,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-D:\Bagus\Workspace\OpenGL\cgopengl\OpenGL Train Simulation\OpenGL App 1\OpenGL Train App.cpp(79,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-D:\Bagus\Workspace\OpenGL\cgopengl\OpenGL Train Simulation\OpenGL App 1\OpenGL Train App.cpp(113,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-D:\Bagus\Workspace\OpenGL\cgopengl\OpenGL Train Simulation\OpenGL App 1\OpenGL Train App.cpp(149,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Bagus\Workspace\OpenGL\cgopengl\OpenGL Train Simulation\OpenGL App 1\OpenGL Train App.cpp(18,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Bagus\Workspace\OpenGL\cgopengl\OpenGL Train Simulation\OpenGL App 1\OpenGL Train App.cpp(49,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Bagus\Workspace\OpenGL\cgopengl\OpenGL Train Simulation\OpenGL App 1\OpenGL Train App.cpp(56,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Bagus\Workspace\OpenGL\cgopengl\OpenGL Train Simulation\OpenGL App 1\OpenGL Train App.cpp(57,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Bagus\Workspace\OpenGL\cgopengl\OpenGL Train Simulation\OpenGL App 1\OpenGL Train App.cpp(102,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Bagus\Workspace\OpenGL\cgopengl\OpenGL Train Simulation\OpenGL App 1\OpenGL Train App.cpp(136,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Bagus\Workspace\OpenGL\cgopengl\OpenGL Train Simulation\OpenGL App 1\OpenGL Train App.cpp(172,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
   OpenGL App 1.vcxproj -> D:\Bagus\Workspace\OpenGL\cgopengl\OpenGL Train Simulation\x64\Debug\OpenGL Train.exe
