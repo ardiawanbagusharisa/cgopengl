@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Bagus\\Workspace\\OpenGL\\OpenGL App 1\\",
+  "WorkspaceRootPath": "D:\\Bagus\\Workspace\\OpenGL\\cgopengl\\Template\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4B4EEA8-D774-48DB-B638-1FDBA9E2FB55}|OpenGL App 1\\OpenGL App 1.vcxproj|D:\\Bagus\\Workspace\\OpenGL\\OpenGL App 1\\OpenGL App 1\\OpenGL App 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{C4B4EEA8-D774-48DB-B638-1FDBA9E2FB55}|OpenGL App 1\\OpenGL App 1.vcxproj|D:\\Bagus\\Workspace\\OpenGL\\cgopengl\\Template\\OpenGL App 1\\OpenGL App 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C4B4EEA8-D774-48DB-B638-1FDBA9E2FB55}|OpenGL App 1\\OpenGL App 1.vcxproj|solutionrelative:OpenGL App 1\\OpenGL App 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "OpenGL App 1.cpp",
-              "DocumentMoniker": "D:\\Bagus\\Workspace\\OpenGL\\OpenGL App 1\\OpenGL App 1\\OpenGL App 1.cpp",
+              "DocumentMoniker": "D:\\Bagus\\Workspace\\OpenGL\\cgopengl\\Template\\OpenGL App 1\\OpenGL App 1.cpp",
               "RelativeDocumentMoniker": "OpenGL App 1\\OpenGL App 1.cpp",
-              "ToolTip": "D:\\Bagus\\Workspace\\OpenGL\\OpenGL App 1\\OpenGL App 1\\OpenGL App 1.cpp",
+              "ToolTip": "D:\\Bagus\\Workspace\\OpenGL\\cgopengl\\Template\\OpenGL App 1\\OpenGL App 1.cpp",
               "RelativeToolTip": "OpenGL App 1\\OpenGL App 1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-24T08:43:48.644Z",
               "EditorCaption": ""
