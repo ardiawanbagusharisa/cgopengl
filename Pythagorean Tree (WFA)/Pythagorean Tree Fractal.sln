@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pythagorean_tree_fractal", "pythagorean_tree_fractal.csproj", "{054D9D7D-076E-4AA0-9037-E6FB37FC5041}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{054D9D7D-076E-4AA0-9037-E6FB37FC5041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{054D9D7D-076E-4AA0-9037-E6FB37FC5041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{054D9D7D-076E-4AA0-9037-E6FB37FC5041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{054D9D7D-076E-4AA0-9037-E6FB37FC5041}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {176882A8-311C-4FDD-864A-C0C6221980E6}
+	EndGlobalSection
+EndGlobal

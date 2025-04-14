@@ -1,0 +1,18 @@
+C:\Users\user\Downloads\howto_pythagorean_tree\bin\Debug\howto_pythagorean_tree.exe
+C:\Users\user\Downloads\howto_pythagorean_tree\bin\Debug\howto_pythagorean_tree.pdb
+C:\Users\user\Downloads\howto_pythagorean_tree\obj\Debug\howto_pythagorean_tree.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\howto_pythagorean_tree\obj\Debug\howto_pythagorean_tree.Form1.resources
+C:\Users\user\Downloads\howto_pythagorean_tree\obj\Debug\howto_pythagorean_tree.Properties.Resources.resources
+C:\Users\user\Downloads\howto_pythagorean_tree\obj\Debug\howto_pythagorean_tree.csproj.GenerateResource.cache
+C:\Users\user\Downloads\howto_pythagorean_tree\obj\Debug\howto_pythagorean_tree.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\howto_pythagorean_tree\obj\Debug\howto_pythagorean_tree.exe
+C:\Users\user\Downloads\howto_pythagorean_tree\obj\Debug\howto_pythagorean_tree.pdb
+D:\Bagus\Workspace\OpenGL\Pythagorean Tree\bin\Debug\howto_pythagorean_tree.exe
+D:\Bagus\Workspace\OpenGL\Pythagorean Tree\bin\Debug\howto_pythagorean_tree.pdb
+D:\Bagus\Workspace\OpenGL\Pythagorean Tree\obj\Debug\howto_pythagorean_tree.csproj.AssemblyReference.cache
+D:\Bagus\Workspace\OpenGL\Pythagorean Tree\obj\Debug\howto_pythagorean_tree.Form1.resources
+D:\Bagus\Workspace\OpenGL\Pythagorean Tree\obj\Debug\howto_pythagorean_tree.Properties.Resources.resources
+D:\Bagus\Workspace\OpenGL\Pythagorean Tree\obj\Debug\howto_pythagorean_tree.csproj.GenerateResource.cache
+D:\Bagus\Workspace\OpenGL\Pythagorean Tree\obj\Debug\howto_pythagorean_tree.csproj.CoreCompileInputs.cache
+D:\Bagus\Workspace\OpenGL\Pythagorean Tree\obj\Debug\howto_pythagorean_tree.exe
+D:\Bagus\Workspace\OpenGL\Pythagorean Tree\obj\Debug\howto_pythagorean_tree.pdb

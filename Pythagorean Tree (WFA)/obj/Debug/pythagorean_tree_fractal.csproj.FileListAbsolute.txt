@@ -1,0 +1,9 @@
+D:\Bagus\Workspace\OpenGL\Pythagorean Tree\bin\Debug\pythagorean_tree_fractal.exe
+D:\Bagus\Workspace\OpenGL\Pythagorean Tree\bin\Debug\pythagorean_tree_fractal.pdb
+D:\Bagus\Workspace\OpenGL\Pythagorean Tree\obj\Debug\pythagorean_tree_fractal.csproj.AssemblyReference.cache
+D:\Bagus\Workspace\OpenGL\Pythagorean Tree\obj\Debug\pythagorean_tree_fractal.Form1.resources
+D:\Bagus\Workspace\OpenGL\Pythagorean Tree\obj\Debug\pythagorean_tree_fractal.Properties.Resources.resources
+D:\Bagus\Workspace\OpenGL\Pythagorean Tree\obj\Debug\pythagorean_tree_fractal.csproj.GenerateResource.cache
+D:\Bagus\Workspace\OpenGL\Pythagorean Tree\obj\Debug\pythagorean_tree_fractal.csproj.CoreCompileInputs.cache
+D:\Bagus\Workspace\OpenGL\Pythagorean Tree\obj\Debug\pythagorean_tree_fractal.exe
+D:\Bagus\Workspace\OpenGL\Pythagorean Tree\obj\Debug\pythagorean_tree_fractal.pdb
