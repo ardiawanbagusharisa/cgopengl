@@ -1,3 +1,5 @@
+In this project, I actually use Windows Form App as the base project. 
+
 Tutorial 
 https://www.csharphelper.com/howtos/howto_pythagorean_tree.html 
 
