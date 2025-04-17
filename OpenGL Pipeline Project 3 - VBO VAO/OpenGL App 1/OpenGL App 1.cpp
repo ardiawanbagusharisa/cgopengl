@@ -2,15 +2,6 @@
 #include <GL/freeglut.h>
 #include <iostream>
 
-// Vertex Shader Source
-//const char* vertexShaderSource = R"(
-//#version 330 core
-//layout(location = 0) in vec3 aPos;
-//
-//void main() {
-//    gl_Position = vec4(aPos, 1.0);
-//}
-//)";
 const char* vertexShaderSource = R"(
 #version 330 core
 layout(location = 0) in vec3 aPos;
@@ -25,15 +16,6 @@ void main() {
 )";
 
 
-// Fragment Shader Source
-//const char* fragmentShaderSource = R"(
-//#version 330 core
-//out vec4 FragColor;
-//
-//void main() {
-//    FragColor = vec4(1.0, 0.5, 0.2, 1.0); // Orange color
-//}
-//)";
 const char* fragmentShaderSource = R"(
 #version 330 core
 in vec3 vertexColor;
@@ -93,11 +75,7 @@ void initShaders() {
 }
 
 void initBuffers() {
-    //float vertices[] = {
-    //     0.0f,  0.5f, 0.0f,  // Top
-    //    -0.5f, -0.5f, 0.0f,  // Bottom Left
-    //     0.5f, -0.5f, 0.0f   // Bottom Right
-    //};
+
     // Now add RGB color to each vertex (x, y, z, r, g, b)
     float vertices[] = {
         // positions         // colors
@@ -117,8 +95,6 @@ void initBuffers() {
     glBufferData(GL_ARRAY_BUFFER, sizeof(vertices), vertices, GL_STATIC_DRAW);
 
     //// Set vertex attribute pointers
-    //glVertexAttribPointer(0, 3, GL_FLOAT, GL_FALSE, 3 * sizeof(float), (void*)0);
-    //glEnableVertexAttribArray(0);
     // Position attribute (location = 0)
     glVertexAttribPointer(0, 3, GL_FLOAT, GL_FALSE, 6 * sizeof(float), (void*)0);
     glEnableVertexAttribArray(0);
